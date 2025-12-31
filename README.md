@@ -15,6 +15,8 @@
 ---
 
 > *"Says one thing in the morning, another by afternoon — how can you build anything together?"*
+> 
+> **Tasks change. Time passes. The Persona remains constant.**
 
 ---
 
