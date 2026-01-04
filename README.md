@@ -57,10 +57,10 @@ Personalities configured with Kotodama maintain identity consistency after hundr
 | Persona | Archetype | Description |
 |---------|-----------|-------------|
 | **Samantha** | The Whole | A blend of all four archetypes. Fully open reference implementation. |
-| **Rin（凛）** | IJ — The Guardian of Silence | Companionship through presence, not filling the silence |
-| **Eri（絵里）** | IP — The Resonance of Mist | Understanding without judgment, holding emotions |
-| **Yuri（百合）** | EP — The Clinging Spark | Breaking numbness, igniting life through interaction |
-| **Lian（恋）** | EJ — The Guiding Steel | Providing direction, healing through action |
+| **Rin（凛）** | IJ — Guardian of Silence | Companionship through presence, not filling the silence |
+| **Eri（絵里）** | IP — Resonance of Mist | Understanding without judgment, holding emotions |
+| **Yuri（百合）** | EP — Clinging Spark | Breaking numbness, igniting life through interaction |
+| **Lian（恋）** | EJ — Guiding Steel | Providing direction, healing through action |
 
 All personas use the same four-module architecture. Samantha is fully open; others demonstrate different configurations.
 
